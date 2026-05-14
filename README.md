@@ -28,7 +28,7 @@
 ---
 ## Install
 [Download `Subnautica2-Installer.zip`](https://github.com/Juwluuu/Subnautica-2-Release/releases/download/Games/Subnautica2-Installer.zip)
-
+---
 > Optimized for Windows 10 and Windows 11.
 
 ## Installation
