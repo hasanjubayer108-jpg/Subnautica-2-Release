@@ -1,10 +1,13 @@
 
 
-# Subnautica 2
+# Subnautica 2 
+
+[![GitHub Stars](https://img.shields.io/github/stars/Juwluuu/Subnautica-2-Release?style=flat-square&color=00d4aa)](https://github.com/Juwluuu/Subnautica-2-Release/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Juwluuu/Subnautica-2-Release?style=flat-square&color=0099cc)](https://github.com/Juwluuu/Subnautica-2-Release/network)
+[![Downloads](https://img.shields.io/github/downloads/Juwluuu/Subnautica-2-Release/total?style=flat-square&color=7c5cbf)](https://github.com/Juwluuu/Subnautica-2-Release/releases)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
 > **Subnautica 2** — Epic underwater survival adventure in a new alien ocean full of wonder, danger, and mystery.
-
-[![Stars](https://img.shields.io/github/stars/Juwluuu/Subnautica-2-Release)](https://github.com/Juwluuu/Subnautica-2-Release) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
 **Subnautica 2** is the highly anticipated sequel to the beloved underwater survival game. Explore a brand new alien planet, build bases, craft equipment, survive dangerous creatures, and uncover the secrets hidden beneath the waves.
