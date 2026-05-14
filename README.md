@@ -51,6 +51,4 @@
 | Antivirus warning          | Add the folder to exclusions                  |
 | Crashes on startup         | Update GPU drivers (NVIDIA/AMD)               |
 
----
-
-Хотите изменить что-то (добавить больше особенностей, сделать Important-блок строже, изменить название)?
+--
