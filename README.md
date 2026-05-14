@@ -1,6 +1,6 @@
 
 
-# Subnautica 2 
+# Subnautica 2 + Multiplayer
 
 [![GitHub Stars](https://img.shields.io/github/stars/Juwluuu/Subnautica-2-Release?style=flat-square&color=00d4aa)](https://github.com/Juwluuu/Subnautica-2-Release/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/Juwluuu/Subnautica-2-Release?style=flat-square&color=0099cc)](https://github.com/Juwluuu/Subnautica-2-Release/network)
